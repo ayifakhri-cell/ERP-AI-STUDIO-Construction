@@ -1,0 +1,5 @@
+{
+  "name": "Construction AI ERP",
+  "description": "An intelligent Construction ERP demonstrating Project Accounting, BIM Analysis, Risk Prediction, and Compliance Auditing using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
